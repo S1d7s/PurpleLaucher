@@ -13,4 +13,5 @@
 
     <color name="primary_text">#E6CCFF</color>
     <color name="secondary_text">#B399FF</color>
+    <color name="ic_launcher_background">#6633FF</color>
 </resources>
