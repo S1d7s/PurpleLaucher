@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Botões roxos -->
     <color name="control_button_color">#9966FF</color>
     <color name="control_button_pressed_color">#7744FF</color>
 
-    <color name="minebutton_color">#B399FF</color>
-    <color name="background_app">#1a0a2e</color>
-    <color name="divider">@color/background_overlay</color>
-    <color name="background_overlay">#6633FF</color>
-    <color name="background_status_bar">#4d0099</color>
-    <color name="background_bottom_bar">#3d0066</color>
-    <color name="icon_outline_color">#E6CCFF</color>
+    <color name="minebutton_color">#9966FF</color>
+    <!-- Fundo branco -->
+    <color name="background_app">#FFFFFF</color>
+    <!-- Dividers cinza -->
+    <color name="divider">#CCCCCC</color>
+    <color name="background_overlay">#E8E8E8</color>
+    <!-- Barra de status cinza -->
+    <color name="background_status_bar">#F5F5F5</color>
+    <!-- Barra inferior cinza -->
+    <color name="background_bottom_bar">#F0F0F0</color>
+    <!-- Ícones em cinza escuro -->
+    <color name="icon_outline_color">#333333</color>
 
-    <color name="primary_text">#E6CCFF</color>
-    <color name="secondary_text">#B399FF</color>
-    <color name="ic_launcher_background">#6633FF</color>
+    <!-- Texto preto/cinza escuro -->
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#666666</color>
+    <color name="ic_launcher_background">#9966FF</color>
 </resources>
